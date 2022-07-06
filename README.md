@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://github.com/Aran276">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aran276&count_private=true&show_icons=true&theme=radical"/><br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aran276&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aran276&layout=compact&langs_count=8&theme=algolia"/><br>
   <img height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aran276&show_icons=true&theme=radical"/>
 </a>
 </p>
